@@ -1,6 +1,6 @@
 # goose - OpenSimulator toolkit written in Go
 
-This is an aasorted collection of tools to deal with OpenSimulator chores that are too fancy to be written in shell script, so I'm doing them in Go instead.
+This is an assorted collection of tools to deal with OpenSimulator chores that are too fancy to be written in shell script, so I'm doing them in Go instead.
 
 ## License
 
