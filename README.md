@@ -1,6 +1,6 @@
 # goose - OpenSimulator toolkit written in Go
 
-![goose logo](assets/logo-128x128.png)
+![goose logo](assets/logo/logo-128x128.png)
 
 This is an assorted collection of tools to deal with OpenSimulator chores that are too fancy to be written in shell script, so I'm doing them in Go instead.
 
